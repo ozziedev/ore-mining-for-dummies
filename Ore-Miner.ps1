@@ -12,7 +12,6 @@ Param(
 )
 
 # Your solana `.config\solana\id.json` location
-$username = "Ashley"
 $idJsonLocation = $pathname
 
 # Setup some vars to store details

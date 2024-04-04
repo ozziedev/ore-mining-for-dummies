@@ -7,7 +7,7 @@ NOTE: This guide assumes you have all the the initial setup completed
 ![Example](https://github.com/ozziedev/ore-mining-for-dummies/blob/main/Example.PNG?raw=true)
 
 ## Steps
-1. Download the code to a folder called ``C:\one-miner\`
+1. Download the code to a folder called `C:\one-miner\`
 
 2. Now we need to enable Powershell scripts to be run (they won't be allowed by default in some cases)
 

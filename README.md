@@ -35,3 +35,6 @@ NOTE: This guide assumes you have all the the initial setup completed
 10. Double click `RunMe.bat` and the application should now begin to execute.
 
 11. Buy Ash a big mac
+
+edit 1
+edit 2
